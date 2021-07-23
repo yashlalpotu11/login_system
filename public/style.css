@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+.center-div{
+    padding-top: 10%;
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+.btn .btn-success{
+    padding: 0.4em 2em;
+}
+form{
+    padding: 0.3em;
+}
+#login .title >span{
+    font-size: 0.8em;
+}
